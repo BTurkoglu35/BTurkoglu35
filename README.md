@@ -11,9 +11,5 @@
 
 [![linkedin](https://img.shields.io/badge/Linkedin-000000?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/busra-turkoglu/)
 
-<p align="center">
-      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Busra Turkoglu&theme=nightowl&show_icons=true&count_private=true)"/>
-      <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Busra Turkoglu&layout=compact&langs_count=8&theme=nightowl"/>
-</p>
 
 
